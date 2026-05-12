@@ -6,8 +6,8 @@
 #include <Adafruit_SH110X.h>
 
 // ================= WIFI =================
-const char* ssid = "Infinix HOT 50i";
-const char* password = "qweMNB1230";
+const char* ssid = "WiFi SSID (Name)";
+const char* password = "WiFi Password";
 
 WebServer server(80);
 

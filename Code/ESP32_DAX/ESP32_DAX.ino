@@ -8,8 +8,8 @@
 Adafruit_SH1106G display(128, 64, &Wire, -1);
 
 // ================= WIFI =================
-const char* ssid = "Infinix HOT 50i";
-const char* password = "qweMNB1230";
+const char* ssid = "WiFi SSID (Name)";
+const char* password = "WiFi Password";
 
 WebServer server(80);
 
